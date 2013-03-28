@@ -1,4 +1,4 @@
-php-conditional-statements
+php Conditional Statements
 ==========================
 
 A quick guide to php Conditionals
